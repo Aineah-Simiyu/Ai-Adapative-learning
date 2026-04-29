@@ -31,7 +31,7 @@ A learning platform that adapts to each student's level using AI-powered feedbac
 
 ```bash
 # 1. Clone the project
-git clone <your-repo-url>
+git clone https://github.com/Aineah-Simiyu/Ai-Adapative-learning.git
 cd Adaptive_Learning_Platform
 
 # 2. Set up environment
@@ -154,5 +154,3 @@ npm run build
 - [Aiven](https://aiven.io) - Managed PostgreSQL
 
 ---
-
-*For a school project, you can deploy freely on Render, Railway, or similar free-tier platforms.*
