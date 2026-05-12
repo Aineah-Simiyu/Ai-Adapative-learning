@@ -143,6 +143,18 @@ npm run build
 # Deploy the dist/ folder
 ```
 
+Student Question generation page
+<img width="1231" height="940" alt="image" src="https://github.com/user-attachments/assets/8da69f97-23d5-40d3-bf33-07ed57458412" />
+
+Teacher Students View
+<img width="1231" height="940" alt="image" src="https://github.com/user-attachments/assets/e43c0599-bec8-4fa8-8014-d813ea2c5d1e" />
+
+Detailed Student information
+<img width="1231" height="940" alt="image" src="https://github.com/user-attachments/assets/63d0f74d-2b17-4a79-9563-5d1c49a97fdc" />
+
+General Stats
+<img width="1231" height="940" alt="image" src="https://github.com/user-attachments/assets/bcee8ecf-6182-402a-a903-f8f07c03ea73" />
+
 ---
 
 ## Built With
